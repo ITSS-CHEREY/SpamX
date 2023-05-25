@@ -8,9 +8,9 @@ import platform
 __version__ = __version__
 
 
-ping_msg = PING_MSG if PING_MSG else "SpamX"
-pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph//file/08445817174872b47cef8.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else "SpamX - by RiZoeLX"
+ping_msg = PING_MSG if PING_MSG else "pam"
+pic = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/23b7606924cbf13dc8d10.jpg"
+amsg = ALIVE_MSG if ALIVE_MSG else "Spam - by DRACULA_CHEERY"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -27,12 +27,12 @@ class Alive:
 ━───────╯•╰───────━
 ➠ **Master:** {owner_mention}
 ➠ **Python Version:** `{platform.python_version()}`
-➠ **SpamX Version:** `{__version__}`
+➠ **hellSpam Version:** `{__version__}`
 ➠ **Pyrogram Version:** `{pyro_vr}`
-➠ **pyRiZoeLX Version:** `{pip_vr}`
-➠ **Channel:** @RiZoeLX
+➠ **pycherry Version:** `{pip_vr}`
+➠ **Channel:** @II_MY_HELL_LIFE_II
 ━───────╮•╭───────━
-➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)
+➠ **Source Code:** [•Repo•](https://github.com/ITSS-CHEREY/hellSpam)
      """
 
 handler = HNDLR
