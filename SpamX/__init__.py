@@ -1,4 +1,4 @@
-""" © RiZoeLX """
+""" © cherry """
 
 from .config import *
 from .database import *
@@ -10,7 +10,7 @@ import time, os, sys
 
 print("""
      ╒══════════════════════╕
-        Starting Your SpamX 
+        Starting Your hellSpam 
      ╘══════════════════════╛
 """)
 
@@ -32,8 +32,8 @@ else:
 
 AUTO_REACT = []
 if auto_re:
-   AUTO_REACT = make_list(-1001244090544, auto_re)
+   AUTO_REACT = make_list(-1001735823928, auto_re)
 else:
-   AUTO_REACT.append(-1001244090544)
+   AUTO_REACT.append(-1001735823928)
 
-EMOJI_LIST = ['❤️', '✨', '🔥', '🥰', '💫', '💯', '🌟', '😁', '💥']
+EMOJI_LIST = ['🐝', '✨', '🔥', '😈', '🍓', '👅', '😡', '😁', '💥']
