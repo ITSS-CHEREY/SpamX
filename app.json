@@ -1,7 +1,7 @@
 {
-      "name": "SpamX - RiZoeL",
+      "name": "𝗛𝐄𝗟𝐋 𝐒𝐏𝐀𝐌",
       "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",
-      "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+      "logo": "https://graph.org/file/81939dffc633c33509a40.jpg",
       "keywords": [
         "telegram",
         "PYROGRAM",
@@ -9,9 +9,9 @@
         "SpamX",
         "RiZoeLX"
       ],   
-  "repository": "https://github.com/RiZoeLX/SpamX",
-  "website": "https://github.com/RiZoeLX",
-  "success_url": "https://t.me/RiZoeLX",
+  "repository": "https://github.com/ITSS-CHEREY/hellSpam",
+  "website": "https://github.com/ITSS-CHEREY",
+  "success_url": "https://t.me/ITSS-CHEREY",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
