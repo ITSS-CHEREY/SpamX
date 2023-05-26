@@ -135,12 +135,12 @@ def Run_SpamX():
     
     print(f"SpamX - [INFO]: Python Version - {platform.python_version()}")
     print(f"SpamX - [INFO]: SpamX Version - {__version__}")
-    print(f"SpamX - [INFO]: pyRiZoeLX Version - {rizoelx_vr}")
+    print(f"SpamX - [INFO]: pycherry Version - {rizoelx_vr}")
     print(f"SpamX - [INFO]: Pyrogram Version - {pyro_vr}")
     print(""" \n\n
      ╒═══════════════════════════╕
-      Your SpamX has been Deployed!!
-      Visit @RiZoeLX for updates!
+      Your Spam has been Deployed!!
+      Visit @AdulT_R00M for updates!
      ╘═══════════════════════════╛
     """)
     idle()
