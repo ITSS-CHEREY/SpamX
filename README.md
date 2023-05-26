@@ -57,7 +57,10 @@
     * If You have Enabled 2-Step Verification then fill your password.
 
 
-  * [![Replit](https://img.shields.io/badge/SpamX-Run%20On%20ReplIT-black?style=for-the-badge&logo=replit)](https://replit.com/ITSS-CHEREY/hellSpam-Sessions?v=1)
+
+
+
+## [𝐒𝐓𝐑𝐈𝐍𝐆 𝐁𝐎𝐓](https://t.me/ANSH_MAKERBOT)
 
 
 <h4>Terminal</4>
