@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="resources/RiZoeLX.png" alt="RiZoeLXSpam Logo">
+  <img src="resources/ITSS-CHEREY.png" alt="hellspam Logo">
 </p>
 <h6 align="center">
-  <b>• SᴘᴀᴍX Bʏ RɪZᴏᴇLX •</b>
+  <b>• ┽⍣𝗛𝐄𝗟𝐋 𝐒𝐏𝐀𝐌•</b>
 </h6>
 
 ----
