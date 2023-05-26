@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/ITSS-CHEREY.png" alt="https://graph.org/file/90a3f772062a02e4ed9f5.jpg">
+  <img src="https://graph.org/file/c4fbd9fc5b35bd4ac34e6.jpg" alt="Unable To serve You">
 </p>
 <h6 align="center">
   <b>• ┽⍣𝗛𝐄𝗟𝐋 𝐒𝐏𝐀𝐌•</b>
