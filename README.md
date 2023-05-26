@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/ITSS-CHEREY.png" alt="hellspam Logo">
+  <img src="resources/ITSS-CHEREY.png" alt="ITSS-CHEREY Logo">
 </p>
 <h6 align="center">
   <b>• ┽⍣𝗛𝐄𝗟𝐋 𝐒𝐏𝐀𝐌•</b>
