@@ -84,5 +84,5 @@ SpamX is licensed under [GNU Affero General Public License](https://www.gnu.org/
 
 <h3>Credits</h3>
 
-  - <b> [RiZoeL](https://github.com/ITSS-CHEREY) : Dev/creator of SpamX </b> 
+  - <b> [hell owner](https://github.com/ITSS-CHEREY) : Dev/creator of SpamX </b> 
   - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in Spam
