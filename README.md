@@ -9,7 +9,7 @@
 
 <b> SpamX Is A Pyrogram Based Spam Bots For Telegram With Many Features </b>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RiZoeLX&repo=SpamX&theme=lite)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITSS-CHEREY &repo=Spam&theme=lite)
 
 ![Repo Size](https://img.shields.io/github/repo-size/RiZoeLX/SpamX?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-main-white?&style=social&logo=github)
