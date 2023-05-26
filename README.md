@@ -33,7 +33,7 @@
 
 <h3 align="center">Deployment</h3>
 
-    - Heroku: [Click Here](https://github.com/ITSS-CHEREY/hellSpam/blob/main/resources/heroku.md)
+  - Heroku: [Click Here](https://github.com/ITSS-CHEREY/hellSpam/blob/main/resources/heroku.md)
 
 
   - Mogenius: [Click Here](https://youtu.be/6XIjTbumJYY)
